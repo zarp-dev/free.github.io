@@ -3,7 +3,7 @@ You can see them below!
 
 # [Helio Workstation](/free/daw/heliofm.html) 
 ## (in development/unstable)(GNU GPL v3)
-![img](https://github.com/helio-fm/helio-workstation/blob/develop/Resources/screen-v2.png)
+![img](https://helio.fm/images/screencap3.png)
 
 # [Zrythm](/free/daw/zrythm.html)
 ## (in development/unstable)(GNU Affero General Public License)
