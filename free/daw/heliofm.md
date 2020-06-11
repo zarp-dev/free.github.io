@@ -1,8 +1,8 @@
-## Helio.fm is a free/libre midi music compositing software! It's cross-platform and fully free!
+## Helio Workstation is free and open-source music sequencer, designed to be used on all major platforms.
 Give it a try!
 
-![Helio.fm](https://helio.fm/images/screencap4.png)
+![Helio Workstation Image](https://github.com/helio-fm/helio-workstation/blob/develop/Resources/screen-v2.png)
 
-[Helio.fm website](https://helio.fm/)
+[helio.fm](https://helio.fm/)
 
-[Helio.fm github repository](https://github.com/helio-fm/helio-workstation)
+[Helio Workstation github repository](https://github.com/helio-fm/helio-workstation)
