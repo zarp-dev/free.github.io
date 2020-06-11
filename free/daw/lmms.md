@@ -1,4 +1,5 @@
-## LMMS
+# LMMS
+## (stable)(GNU GPL v2)
 LMMS is a free cross-platform alternative to commercial programs like FL Studio®, which allow you to produce music with your computer. 
 
 ![img](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlSu_BWdHPgM%2Fmaxresdefault.jpg&f=1&nofb=1)
