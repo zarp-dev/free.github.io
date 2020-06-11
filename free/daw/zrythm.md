@@ -1,4 +1,5 @@
-## Zrythm
+# Zrythm
+## (in development/unstable)(GNU Affero General Public License)
 Zrythm is a digital audio workstation designed to be featureful and easy to use.
 
 ![img](https://www.zrythm.org/static/images/jun-7-2020.png)
