@@ -12,4 +12,4 @@ Give it a try!
 
 [lmms.io](https://lmms.io/)
 
-[sitegithub repository](https://github.com/LMMS/lmms)
+[LMMS github repository](https://github.com/LMMS/lmms)
