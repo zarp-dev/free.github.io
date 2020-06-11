@@ -13,4 +13,4 @@ Give it a try!
 
 [zrythm.org](https://zrythm.org)
 
-[Zrythm github repository](https://www.zrythm.org/static/images/piano-roll.gif)
+[Zrythm github repository](https://github.com/zrythm/zrythm)
