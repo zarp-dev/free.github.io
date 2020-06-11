@@ -1,7 +1,7 @@
 ## Helio Workstation 
 Helio Workstation is free and open-source music sequencer, designed to be used on all major platforms.
 
-![img](https://github.com/helio-fm/helio-workstation/blob/develop/Resources/screen-v2.png)
+![img](https://helio.fm/images/screencap3.png)
 
 Why another sequencer?
 
