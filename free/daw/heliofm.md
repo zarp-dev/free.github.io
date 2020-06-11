@@ -13,7 +13,7 @@ It aims to be a modern music creation software, featuring linear-based/pattern-b
 
 ![img](https://helio.fm/images/screencap1.png)
 
-[Give it a try!](https://helio.fm/)
+Give it a try 
 
 [helio.fm](https://helio.fm/)
 
