@@ -6,6 +6,6 @@ I hope you enjoy!
 ### Interesting pages to read!
 Just click on it to read!
 
-[Free/Libre alternatives to proprietary software.](/free/)
+[Free/Libre alternatives to proprietary software.](/free/index.html)
 
 
