@@ -2,4 +2,4 @@
 You can see them below!
 
 [Helio.fm](/free/daw/heliofm.md)
-![Helio.fm Image](https://helio.fm/images/helio-logo-animation.png)
+![Helio.fm Image](https://github.com/helio-fm/helio-workstation/blob/develop/Resources/screen-v2.png)
