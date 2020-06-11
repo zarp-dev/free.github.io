@@ -9,6 +9,6 @@ It's amazing!
 
 Give it a try!
 
-[sitename.org]sitename.org
+[sitename.org](sitename.org)
 
 [sitegithub repository](https://github.com)
