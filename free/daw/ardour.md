@@ -1,5 +1,5 @@
-## Ardour
-# (stable)(GNU GPL v2)
+# Ardour
+## (stable)(GNU GPL v2)
 Ardour is a hard disk recorder and digital audio workstation application that runs on Linux, macOS, FreeBSD and Microsoft Windows.
 
 ![img](https://ardour.org/images/retina_no_plugs2.png)
