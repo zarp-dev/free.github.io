@@ -6,7 +6,7 @@ I hope you enjoy!
 ### Interesting pages to read!
 Just click on it to read!
 
-[Free/Libre alternatives to proprietary software.](/free/free.md)
+[Free/Libre alternatives to proprietary software.](/free/free.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
