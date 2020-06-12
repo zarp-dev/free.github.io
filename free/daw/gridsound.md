@@ -12,4 +12,4 @@ Give it a try!
 
 [gridsound.com](https://gridsound.com/)
 
-[sitegithub repository](https://github.com/gridsound/daw)
+[GridSound github repository](https://github.com/gridsound/daw)
